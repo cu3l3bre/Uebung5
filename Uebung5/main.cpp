@@ -1,14 +1,11 @@
 #include <iostream>
 
-
 using namespace std;
-
 
 // int Variablen global deklarieren
 int ganzeZahl1;
 int ganzeZahl2;
 int ganzeZahl3;
-
 
 
 void ZahlVerdreifachen(int* Zahl)
