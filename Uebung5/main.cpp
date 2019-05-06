@@ -27,6 +27,8 @@ void TauscheZahlen(int* Zahl1, int* Zahl2)
 
 int main()
 {
+	cout << "Test SDK" << endl;
+
 	int Zahl = 3;	// Zuweisung einer Zahl
 	int* ZeigerAufZahl = &Zahl;	// Zuweisung der Adresse dem Zeiger ZeigerAufZahl
 	int** ZeigerAufZeiger = &ZeigerAufZahl;	// Zuweisung der Adresse von ZeigerAufZahl an ZeigerAufZeiger
